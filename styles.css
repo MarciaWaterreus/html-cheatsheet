@@ -1,0 +1,54 @@
+body {
+    font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+}
+
+th {
+    background-color: #0F4955;
+    color: white;
+    font-size: 2em;
+}
+
+table {
+    width: 100%;
+}
+
+table,
+td,
+th {
+    border: 1px solid #D4F2F8;
+    padding: 1%;
+}
+
+td.tag {
+    background-color: #D4F2F8;
+    border: 2px solid #0F4955;
+    font-family: Lucida Console, Courier, monospace;
+    width: 25%;
+}
+
+td.descr {
+    width: 50%;
+}
+
+hr {
+    width: 50%;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    background-color: #D4F2F8;
+    color: #D4F2F8;
+    height: 2px;
+    border-width: 0;
+}
+
+h1 {
+    margin: 2em;
+}
+
+.text-center {
+    text-align: center;
+}
+
+footer {
+    margin-top: 2em;
+    font-size: smaller;
+}
